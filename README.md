@@ -6,7 +6,7 @@
   - $ git clone https://github.com/MohamedAbdelghanyy/rtl8188eus.git
 - Start the one time configuration
   - $ cd rtl8188eus
-  - $ ./config.sh
+  - $ sudo bash ./config.sh
 - [+] Each time you restart your OS you need to run this command in terminal from root directory
   - $ ./rtl8188eus/start.sh
  # How to enable Monitor Mode?
