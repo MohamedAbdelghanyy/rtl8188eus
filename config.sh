@@ -3,7 +3,7 @@
 chmod +x start.sh
 clear
 echo -e "\e[1;32m######################################################################\e[0m"
-echo -e "\e[1;32m#            TP-Link TL-WN722N v3 RTL8188eu Configurator             #\e[0m"
+echo -e "\e[1;32m#            TP-Link TL-WN722N v3 RTL8188EUS Configurator            #\e[0m"
 echo -e "\e[1;32m#                            M.Abdelghany                            #\e[0m"
 echo -e "\e[1;32m######################################################################\e[0m"
 echo " "
